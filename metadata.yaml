@@ -1,0 +1,41 @@
+_repo: The-Man-from-Snowy-River_213
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Paterson, A. B. (Andrew Barton)
+    aliases:
+    - Paterson, Banjo
+    - Paterson, Andrew Barton
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '118'
+    url: http://www.gutenberg.org/2009/agents/118
+    wikipedia: http://en.wikipedia.org/wiki/Banjo_Paterson
+description: One of the most famous poems in Australian literature, The Man from Snowy
+  River was first published in The Bulletin, on 26 April 1890. The poem tells the
+  story of a chase to recapture a valuable colt. 'The Man' - who is not identified
+  by name - rides down a suicidally steep slope to rescue the horse, collect the reward
+  money and become a local hero. It is thought that the character of The Man from
+  Snowy River was based on Jack Riley from Corryong, although a strong case has been
+  made that 'the Man' is a composite character from a number of people Paterson met.
+  The poem was written at a time when there was a groundswell of sentiment towards
+  Australia as a new and distinct nation apart from the British Empire, and the bush
+  settings and characters in poems by Paterson and Henry Lawson served to emphasise
+  the growing 'difference' in national identity. Several films, a television series
+  and a musical have been made from the story, proof of its enduring power to captivate
+  Australia ns to this day.
+gutenberg_bookshelf: Australia
+gutenberg_issued: '1995-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '213'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- Australia -- Poetry'
+- !lcc 'PR'
+- GITenberg
+title: The Man from Snowy River
+url: http://www.gutenberg.org/ebooks/213
